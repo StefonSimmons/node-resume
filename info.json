@@ -1,0 +1,46 @@
+{
+  "name": "Stefon Simmons",
+  "website": "https://stefonsimmons.me",
+  "linkedin": "https://www.linkedin.com/in/stefonsimmons/",
+  "github": "stefonsimmons",
+  "email": "stefonsimmons1.gmail.com",
+  "resume": "https://stefonsimmons.me/resume",
+  "education": [
+      {
+        "institution": "General Assembly",
+        "location": "New York, NY / Remote",
+        "specialty": "Software Engineering",
+        "award": "Certificate of Completion",
+        "conferralDate": "June 2020"
+      },
+      {
+        "institution": "Norfolk State University",
+        "location": "Norfolk, VA",
+        "specialty": "Business Management",
+        "award": "Bachelor of Science - Magna Cum Laude",
+        "conferralDate": "May 2012"
+      }
+  ],
+  "techSkills": [
+      "Javascript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Ruby",
+      "Ruby on Rails",
+      "Python",
+      "SQL",
+      "MongoDB",
+      "Sass",
+      "Styled-Components",
+      "Bootstrap",
+      "Hugo",
+      "Git and Github",
+      "Jest Testing"
+  ],
+  "otherSkills": [
+      "Singer, Songwriter, Recording Artist",
+      "Painter",
+      "Theater Photographer"
+  ]
+}
